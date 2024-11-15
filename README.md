@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Jos, 👨‍💻
 
-**I'm a passionate Front-End Web Developer with a love for building interactive, user-friendly applications. 🚀 I specialize in creating seamless, high-performance web experiences using the latest technologies. From building modern websites to mobile apps, I bring my creativity and expertise to everything I do. Let's build something amazing together!** 💻✨
+**I'm a passionate Front-End Web/Mobile Developer with a love for building interactive, user-friendly applications. 🚀 I specialize in creating seamless, high-performance web experiences using the latest technologies. From building modern websites to mobile apps, I bring my creativity and expertise to everything I do. Let's build something amazing together!** 💻✨
 
 ![Kitten Typing GIF](https://media.tenor.com/images/7e0ec51f4b6b78b8db4d2a86c2791747/tenor.gif)
 
