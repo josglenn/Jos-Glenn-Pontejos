@@ -1,12 +1,14 @@
-### Hey there! 👋 I'm Jos, 👨‍💻
+## Hey there! 👋 I'm Jos, 👨‍💻
 
-I'm a passionate Front-End Web Developer with a love for building interactive, user-friendly applications. 🚀 I specialize in creating seamless, high-performance web experiences using the latest technologies. From building modern websites to mobile apps, I bring my creativity and expertise to everything I do. Let's build something amazing together! 💻✨
+**I'm a passionate Front-End Web Developer with a love for building interactive, user-friendly applications. 🚀 I specialize in creating seamless, high-performance web experiences using the latest technologies. From building modern websites to mobile apps, I bring my creativity and expertise to everything I do. Let's build something amazing together!** 💻✨
 
 ![Kitten Typing GIF](https://media.tenor.com/images/7e0ec51f4b6b78b8db4d2a86c2791747/tenor.gif)
 
 
-🚀 Technologies & Tools I Love to Work With:
-I’ve had the pleasure of working with some amazing tools and languages to bring ideas to life! Here are the main ones I use daily:
+🚀 _**Technologies & Tools I Love to Work With**:
+I’ve had the pleasure of working with some amazing tools and languages to bring ideas to life!_ 
+
+Here are the main ones I use daily:
 
 ### Front-End:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)  ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat&logo=material-ui&logoColor=white)  ![Shadcn](https://img.shields.io/badge/-Shadcn-000000?style=flat&logo=shadcn&logoColor=white)  ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white)  
